@@ -1,0 +1,23 @@
+table{
+  border-collapse: collapse
+}
+table, th, td{
+  border: 1px solid black;
+}
+.menu{
+  background-color: brown;
+}
+th, td{
+  padding: 10px 50px;
+  text-align: center;
+}
+Button{
+  margin: 0 15px;
+  background-color: cornsilk;
+}
+.submit{
+  border: none;
+}
+.sum-total{
+  column-span: all;
+}
